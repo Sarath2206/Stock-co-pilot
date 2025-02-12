@@ -26,7 +26,8 @@ def create_sidebar():
         'NVDA': 'NVIDIA Corporation',
         'JPM': 'JPMorgan Chase & Co.',
         'BAC': 'Bank of America Corp.',
-        'DIS': 'The Walt Disney Company'
+        'DIS': 'The Walt Disney Company',
+        'INTC': 'Intel Corporation
     }
     
     # Stock selection
